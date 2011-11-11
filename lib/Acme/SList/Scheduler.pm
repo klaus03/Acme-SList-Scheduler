@@ -7,7 +7,7 @@ require Exporter;
 our @ISA       = qw(Exporter);
 our @EXPORT    = qw(srun label);
 our @EXPORT_OK = qw();
-our $VERSION   = '0.01';
+our $VERSION   = '0.02';
 
 use Getopt::Std;
 use Acme::SList::Utilities qw(sdate sduration);

@@ -28,7 +28,7 @@
    "provides" : {
       "Acme::SList::Scheduler" : {
          "file" : "lib/Acme/SList/Scheduler.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -37,5 +37,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

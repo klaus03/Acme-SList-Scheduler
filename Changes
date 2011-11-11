@@ -2,3 +2,6 @@ Revision history for Acme-SList-Scheduler
 
 0.01    07 Nov 2011
         First version, released on an unsuspecting world.
+
+0.02    11 Nov 2011
+        Fix test failure (rc=244), i.e. replace use_ok by ok(1)

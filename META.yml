@@ -15,9 +15,9 @@ name: Acme-SList-Scheduler
 provides:
   Acme::SList::Scheduler:
     file: lib/Acme/SList/Scheduler.pm
-    version: 0.01
+    version: 0.02
 requires:
   Acme::SList::Utilities: 0.01
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
